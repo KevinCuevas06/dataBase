@@ -1,4 +1,4 @@
-package mx.edu.utng.fmoj.databasae4.data.local.dao
+package mx.edu.utng.kecc.databasae4.data.local.dao
 
 import androidx.room.Dao
 import androidx.room.Delete
