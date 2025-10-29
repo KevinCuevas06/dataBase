@@ -1,4 +1,4 @@
-package mx.edu.utng.fmoj.basedatos4.data.local.entity
+package mx.edu.utng.kecc.basedatos4.data.local.entity
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
