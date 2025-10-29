@@ -1,4 +1,4 @@
-package mx.edu.utng.fmoj.basedatos4.data.repositori
+package mx.edu.utng.kecc.basedatos4.data.repositori
 
 class PostRepositori {
 }
