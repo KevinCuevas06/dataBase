@@ -1,4 +1,4 @@
-package mx.edu.utng.fmoj.basedatos4.ui.theme
+package mx.edu.utng.kecc.basedatos4.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
