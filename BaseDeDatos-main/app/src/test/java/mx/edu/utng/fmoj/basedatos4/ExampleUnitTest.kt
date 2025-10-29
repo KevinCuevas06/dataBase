@@ -1,4 +1,4 @@
-package mx.edu.utng.fmoj.basedatos4
+package mx.edu.utng.kecc.basedatos4
 
 import org.junit.Test
 
