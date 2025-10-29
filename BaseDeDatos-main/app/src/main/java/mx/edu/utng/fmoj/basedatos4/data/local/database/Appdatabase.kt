@@ -1,4 +1,4 @@
-package mx.edu.utng.fmoj.basedatos4.data.local.database
+package mx.edu.utng.kecc.basedatos4.data.local.database
 
 import android.content.Context
 import androidx.room.Database
