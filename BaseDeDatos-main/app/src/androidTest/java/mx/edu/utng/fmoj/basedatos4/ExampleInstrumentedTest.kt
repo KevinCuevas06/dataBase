@@ -1,4 +1,4 @@
-package mx.edu.utng.fmoj.basedatos4
+package mx.edu.utng.kecc.basedatos4
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
